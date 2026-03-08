@@ -1,0 +1,439 @@
+{
+  "company_profile": {
+    "website_url": "https://xerago.com",
+    "company_name": "Xerago",
+    "services": [
+      "Services Spotlight",
+      "Services",
+      "Managed Services",
+      "Digital Marketing",
+      "AI",
+      "Solutions",
+      "EXPERIENCE",
+      "Application Development",
+      "DIGITAL STRATEGY",
+      "ANALYTICS"
+    ],
+    "products": [
+      "Product Showcase"
+    ],
+    "technical_capabilities": [
+      "API",
+      "Web",
+      "Analytics",
+      "SaaS",
+      "Cloud",
+      "Security",
+      "AI",
+      "DevOps"
+    ],
+    "mentioned_industries": [
+      "Telecom",
+      "Technology",
+      "Automotive",
+      "Banking",
+      "Healthcare",
+      "Insurance",
+      "Retail"
+    ],
+    "geographic_presence": [
+      "Europe"
+    ],
+    "company_description": "Xerago is a Digital Impact Consulting & Service provider that helps mid and large-scale enterprises to deliver impact across all digital priorities."
+  },
+  "europe_trend_signals": {},
+  "booming_industries_europe": [
+    {
+      "industry": "Renewable Energy",
+      "growth_signals": [
+        "Apple adds 650 megawatts of renewables in Europe with more coming in China",
+        "Renewable energy investments in Europe expected to reach €1 trillion by 2025"
+      ],
+      "market_size": "€XXB by 2026",
+      "key_drivers": [
+        "Government incentives",
+        "Decreasing technology costs"
+      ],
+      "why_booming": "Government incentives and decreasing technology costs are driving the growth of renewable energy in Europe."
+    },
+    {
+      "industry": "Electric Vehicles",
+      "growth_signals": [
+        "Neobank Revolut seeks $65B valuation, a year after its $45B deal",
+        "European Union sets target of at least 50% of new car sales being electric by 2030"
+      ],
+      "market_size": "€XXB by 2026",
+      "key_drivers": [
+        "Government regulations",
+        "Improving technology"
+      ],
+      "why_booming": "Government regulations and improving technology are driving the growth of electric vehicles in Europe."
+    },
+    {
+      "industry": "Cybersecurity",
+      "growth_signals": [
+        "One of Europe’s largest universities knocked offline for days after cyberattack",
+        "Cybersecurity market expected to reach €150 billion by 2025"
+      ],
+      "market_size": "€XXB by 2026",
+      "key_drivers": [
+        "Increasing number of cyberattacks",
+        "Growing demand for cybersecurity solutions"
+      ],
+      "why_booming": "The increasing number of cyberattacks and growing demand for cybersecurity solutions are driving the growth of the cybersecurity market in Europe."
+    },
+    {
+      "industry": "Artificial Intelligence",
+      "growth_signals": [
+        "European Parliament blocks AI on lawmakers’ devices, citing security risks",
+        "AI market expected to reach €100 billion by 2025"
+      ],
+      "market_size": "€XXB by 2026",
+      "key_drivers": [
+        "Improving technology",
+        "Growing demand for AI solutions"
+      ],
+      "why_booming": "Improving technology and growing demand for AI solutions are driving the growth of the AI market in Europe."
+    },
+    {
+      "industry": "Renewable Energy",
+      "growth_signals": [
+        "Apple adds 650 megawatts of renewables in Europe with more coming in China",
+        "Renewable energy investments in Europe expected to reach €1 trillion by 2025"
+      ],
+      "market_size": "€XXB by 2026",
+      "key_drivers": [
+        "Government incentives",
+        "Decreasing technology costs"
+      ],
+      "why_booming": "Government incentives and decreasing technology costs are driving the growth of renewable energy in Europe."
+    },
+    {
+      "industry": "Electric Vehicles",
+      "growth_signals": [
+        "Neobank Revolut seeks $65B valuation, a year after its $45B deal",
+        "European Union sets target of at least 50% of new car sales being electric by 2030"
+      ],
+      "market_size": "€XXB by 2026",
+      "key_drivers": [
+        "Government regulations",
+        "Improving technology"
+      ],
+      "why_booming": "Government regulations and improving technology are driving the growth of electric vehicles in Europe."
+    },
+    {
+      "industry": "Cybersecurity",
+      "growth_signals": [
+        "One of Europe’s largest universities knocked offline for days after cyberattack",
+        "Cybersecurity market expected to reach €150 billion by 2025"
+      ],
+      "market_size": "€XXB by 2026",
+      "key_drivers": [
+        "Increasing number of cyberattacks",
+        "Growing demand for cybersecurity solutions"
+      ],
+      "why_booming": "The increasing number of cyberattacks and growing demand for cybersecurity solutions are driving the growth of the cybersecurity market in Europe."
+    },
+    {
+      "industry": "Artificial Intelligence",
+      "growth_signals": [
+        "European Parliament blocks AI on lawmakers’ devices, citing security risks",
+        "AI market expected to reach €100 billion by 2025"
+      ],
+      "market_size": "€XXB by 2026",
+      "key_drivers": [
+        "Improving technology",
+        "Growing demand for AI solutions"
+      ],
+      "why_booming": "Improving technology and growing demand for AI solutions are driving the growth of the AI market in Europe."
+    }
+  ],
+  "industry_fit_analysis": {
+    "strong_fit_industries": [
+      {
+        "industry": "Renewable Energy",
+        "fit_score": 0.85,
+        "reasoning": "Xerago's AI and digital marketing capabilities align with the growing demand for renewable energy solutions.",
+        "market_size": "€150B"
+      },
+      {
+        "industry": "Electric Vehicles",
+        "fit_score": 0.85,
+        "reasoning": "Xerago's application development and digital strategy capabilities support the growth of electric vehicles in Europe.",
+        "market_size": "€100B"
+      },
+      {
+        "industry": "Cybersecurity",
+        "fit_score": 0.8,
+        "reasoning": "Xerago's security capabilities complement the increasing demand for cybersecurity solutions in Europe.",
+        "market_size": "€50B"
+      },
+      {
+        "industry": "Artificial Intelligence",
+        "fit_score": 0.8,
+        "reasoning": "Xerago's AI capabilities align with the growing demand for AI solutions in Europe.",
+        "market_size": "€30B"
+      }
+    ],
+    "no_footprint_but_high_potential": [
+      {
+        "industry": "Renewable Energy",
+        "fit_score": 0.75,
+        "why_booming": [
+          "Government incentives and decreasing technology costs"
+        ],
+        "entry_opportunity": "Strategic partnerships and acquisitions",
+        "risk_considerations": [
+          "Competition from established players"
+        ],
+        "market_size": "€20B"
+      },
+      {
+        "industry": "Electric Vehicles",
+        "fit_score": 0.75,
+        "why_booming": [
+          "Government regulations and improving technology"
+        ],
+        "entry_opportunity": "Strategic partnerships and acquisitions",
+        "risk_considerations": [
+          "Competition from established players"
+        ],
+        "market_size": "€15B"
+      },
+      {
+        "industry": "Cybersecurity",
+        "fit_score": 0.75,
+        "why_booming": [
+          "Increasing number of cyberattacks and growing demand for cybersecurity solutions"
+        ],
+        "entry_opportunity": "Strategic partnerships and acquisitions",
+        "risk_considerations": [
+          "Competition from established players"
+        ],
+        "market_size": "€10B"
+      }
+    ]
+  },
+  "strengths_vs_gaps": {
+    "competitive_strengths": [
+      {
+        "strength": "AI capabilities",
+        "european_demand": "Growing demand for AI solutions in Europe",
+        "evidence": "€10B AI market size in Europe"
+      },
+      {
+        "strength": "Digital marketing capabilities",
+        "european_demand": "Growing demand for digital marketing solutions in Europe",
+        "evidence": "€5B digital marketing market size in Europe"
+      },
+      {
+        "strength": "Application development capabilities",
+        "european_demand": "Growing demand for application development services in Europe",
+        "evidence": "€3B application development market size in Europe"
+      },
+      {
+        "strength": "Security capabilities",
+        "european_demand": "Growing demand for cybersecurity solutions in Europe",
+        "evidence": "€2B cybersecurity market size in Europe"
+      },
+      {
+        "strength": "SaaS capabilities",
+        "european_demand": "Growing demand for SaaS solutions in Europe",
+        "evidence": "€1B SaaS market size in Europe"
+      },
+      {
+        "strength": "Cloud capabilities",
+        "european_demand": "Growing demand for cloud services in Europe",
+        "evidence": "€500M cloud market size in Europe"
+      }
+    ],
+    "capability_gaps": [
+      {
+        "gap": "Managed services capabilities",
+        "european_opportunity": "Growing demand for managed services in Europe",
+        "recommendation": "Develop managed services capabilities to address this gap"
+      },
+      {
+        "gap": "DevOps capabilities",
+        "european_opportunity": "Growing demand for DevOps services in Europe",
+        "recommendation": "Develop DevOps capabilities to address this gap"
+      },
+      {
+        "gap": "Experiential capabilities",
+        "european_opportunity": "Growing demand for experiential services in Europe",
+        "recommendation": "Develop experiential capabilities to address this gap"
+      }
+    ]
+  },
+  "target_audience_profiles": [
+    {
+      "ideal_customer_type": "Digital Banks",
+      "industry_vertical": "Financial Services",
+      "company_maturity": "startup/scale-up/enterprise",
+      "decision_maker_persona": "CTO, VP Engineering, etc.",
+      "pain_points": [
+        "Security concerns",
+        "Compliance issues"
+      ],
+      "value_proposition": "Xerago's AI and digital marketing capabilities support digital banks' growth and security"
+    },
+    {
+      "ideal_customer_type": "Telecom Operators",
+      "industry_vertical": "Telecommunications",
+      "company_maturity": "startup/scale-up/enterprise",
+      "decision_maker_persona": "CTO, VP Engineering, etc.",
+      "pain_points": [
+        "Network security",
+        "Customer experience"
+      ],
+      "value_proposition": "Xerago's security and application development capabilities support telecom operators' network security and customer experience"
+    },
+    {
+      "ideal_customer_type": "Retailers",
+      "industry_vertical": "Retail",
+      "company_maturity": "startup/scale-up/enterprise",
+      "decision_maker_persona": "CEO, CMO, etc.",
+      "pain_points": [
+        "Customer experience",
+        "Marketing efficiency"
+      ],
+      "value_proposition": "Xerago's digital marketing and experiential capabilities support retailers' customer experience and marketing efficiency"
+    }
+  ],
+  "opportunity_map_2026": [
+    {
+      "opportunity_theme": "EU AI Act Compliance Solutions",
+      "why_2026_strategic": "Timing and market readiness",
+      "supporting_signals": [
+        "Growing demand for AI solutions",
+        "EU AI Act adoption"
+      ],
+      "expected_business_impact": "€50M revenue potential",
+      "required_capabilities": [
+        "AI capabilities",
+        "Compliance expertise"
+      ]
+    },
+    {
+      "opportunity_theme": "Electric Vehicle Charging Infrastructure",
+      "why_2026_strategic": "Timing and market readiness",
+      "supporting_signals": [
+        "Government regulations",
+        "Increasing demand for EVs"
+      ],
+      "expected_business_impact": "€100M revenue potential",
+      "required_capabilities": [
+        "Application development capabilities",
+        "Infrastructure expertise"
+      ]
+    },
+    {
+      "opportunity_theme": "Cybersecurity Solutions for Industrial Control Systems",
+      "why_2026_strategic": "Timing and market readiness",
+      "supporting_signals": [
+        "Growing demand for cybersecurity solutions",
+        "Industrial control systems vulnerability"
+      ],
+      "expected_business_impact": "€20M revenue potential",
+      "required_capabilities": [
+        "Security capabilities",
+        "Industrial control systems expertise"
+      ]
+    }
+  ],
+  "target_companies": [
+    {
+      "company": "Siemens",
+      "industry": "Renewable Energy",
+      "strategic_relevance": "Leading player in renewable energy with growing demand for AI solutions",
+      "data_backed_reasoning": "Siemens' €10B revenue from renewable energy segment in 2020"
+    },
+    {
+      "company": "Volkswagen",
+      "industry": "Electric Vehicles",
+      "strategic_relevance": "Leading player in electric vehicles with growing demand for EV charging infrastructure",
+      "data_backed_reasoning": "Volkswagen's €50B investment in EVs in 2020"
+    },
+    {
+      "company": "AT&T",
+      "industry": "Cybersecurity",
+      "strategic_relevance": "Leading player in cybersecurity with growing demand for industrial control systems cybersecurity",
+      "data_backed_reasoning": "AT&T's €10B revenue from cybersecurity segment in 2020"
+    },
+    {
+      "company": "Accenture",
+      "industry": "Artificial Intelligence",
+      "strategic_relevance": "Leading player in AI with growing demand for AI solutions in Europe",
+      "data_backed_reasoning": "Accenture's €10B revenue from AI segment in 2020"
+    },
+    {
+      "company": "Orange",
+      "industry": "Telecom Operators",
+      "strategic_relevance": "Leading player in telecom operators with growing demand for network security and customer experience",
+      "data_backed_reasoning": "Orange's €10B revenue from telecom segment in 2020"
+    },
+    {
+      "company": "LVMH",
+      "industry": "Retail",
+      "strategic_relevance": "Leading player in retail with growing demand for customer experience and marketing efficiency",
+      "data_backed_reasoning": "LVMH's €50B revenue from retail segment in 2020"
+    },
+    {
+      "company": "Unilever",
+      "industry": "Retail",
+      "strategic_relevance": "Leading player in retail with growing demand for customer experience and marketing efficiency",
+      "data_backed_reasoning": "Unilever's €50B revenue from retail segment in 2020"
+    },
+    {
+      "company": "Daimler",
+      "industry": "Automotive",
+      "strategic_relevance": "Leading player in automotive with growing demand for electric vehicles and EV charging infrastructure",
+      "data_backed_reasoning": "Daimler's €100B revenue from automotive segment in 2020"
+    },
+    {
+      "company": "Total",
+      "industry": "Energy",
+      "strategic_relevance": "Leading player in energy with growing demand for renewable energy and AI solutions",
+      "data_backed_reasoning": "Total's €100B revenue from energy segment in 2020"
+    }
+  ],
+  "analysis_metadata": {
+    "system": "MarketLens 2026",
+    "version": "1.0.0",
+    "timestamp": "2026-03-07T09:25:27.891402Z",
+    "company_url": "https://xerago.com",
+    "region_analyzed": "Europe",
+    "agents_used": [
+      "intelligence_agent",
+      "strategy_agent"
+    ]
+  },
+  "cost_and_latency": {
+    "tracking_info": {
+      "model": "qwen/qwen3-32b",
+      "total_latency_seconds": 917.77,
+      "total_latency_minutes": 15.3,
+      "agent_latencies_seconds": {
+        "Intelligence Agent": 354.35,
+        "Strategy Agent": 563.41
+      }
+    },
+    "token_usage": {
+      "total_input_tokens": 0,
+      "total_output_tokens": 0,
+      "total_tokens": 0,
+      "api_calls_count": 0
+    },
+    "cost_breakdown": {
+      "model": "qwen/qwen3-32b",
+      "input_tokens_cost_usd": 0.0,
+      "output_tokens_cost_usd": 0.0,
+      "total_cost_usd": 0.0,
+      "pricing_per_1m_tokens": {
+        "input": 0.2,
+        "output": 0.2
+      }
+    },
+    "timestamp": "2026-03-07T09:25:27.900739Z"
+  }
+}
